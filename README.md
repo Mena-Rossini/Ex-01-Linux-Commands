@@ -21,7 +21,9 @@ All basic and advanced tasks can be done by executing commands. The commands are
 
 The ls command is used to display a list of content of a directory.
 
- Syntax: ls
+Syntax: ls
+
+
 
 
 ### 2)	pwd Command
